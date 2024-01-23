@@ -1,0 +1,140 @@
+
+
+
+.all{
+  padding:10px;
+margin: 5vw;
+}
+.f1{
+    color: whitesmoke;
+    background-color: black;
+    height:50vh;
+}
+.f1-1{
+    display: flex;
+    flex-direction: row;
+    margin-left:20vw;
+}
+.gap{
+    padding:10px;
+}
+.f1-2{
+   margin-left:40vw;
+   margin-top:10vh;
+}
+.t1{
+    display:flex;
+    flex-direction: row;
+    padding:20px;
+    margin-left:10vw;
+    
+}
+img{
+    width:20vw;
+    margin-top:10vw;
+    margin-left:5vw;
+    height:50vh;
+}
+.pad{
+    padding: 5vw;
+    width:30vw;
+    
+}
+.p-1{
+    
+   margin-top:-10px;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    margin-top:-80px;
+    justify-content: center;
+
+}
+.btn1{
+    padding: 5px;
+    margin:5px;
+    background-color: cadetblue;
+    border-radius:3px;
+    color: white;
+    border: none;
+}
+.btn2{
+    padding: 5px;
+    margin:5px;
+    background-color:red;
+    border-radius:3px;
+    color: white;
+    border: none;
+}
+.btn3{
+    padding: 5px;
+    margin:5px;
+    background-color:orange;
+    border-radius:3px;
+    color: white;
+    border: none;
+}
+.h4-1{
+    background-color: black;
+    color: whitesmoke;
+    height:5vw;
+   text-align: center;}
+.h411{
+    
+      padding:20px;
+
+}  
+.h31{
+    
+}
+    
+.flex1{
+    display: flex;
+    flex-direction: row;
+}
+.flex1 div{
+    border: 2px solid black;
+    margin:2vw;
+    padding:0.5vw;
+    
+}
+.flex1 div h4{
+    margin-top:0px;
+    
+}
+.flex1 div :nth-child(2){
+    margin-top:-25px;
+    
+}
+.poem{
+    display: flex;
+    flex-direction: row;
+   margin-left:10%;
+  
+}
+.sep{
+    margin-left:40%;
+    
+    
+}
+.l1{
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    margin-top:2vw;
+    background-color: black;
+    color: white;
+}
+.l1 div {
+
+    padding:5vw;
+    border-left: 2px solid grey;
+   
+    
+}
+
+.l1 div h4{
+    margin-top: 0px;
+}
+
